@@ -1,6 +1,6 @@
 # weatherCLI
 
-Building a command line application using Node.js - 
+Building a command line application using Node.js - [https://pusher.com/tutorials/node-command-line-app](https://pusher.com/tutorials/node-command-line-app)
 
 ## Getting Started
 
